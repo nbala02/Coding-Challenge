@@ -1,5 +1,5 @@
 # Python 3.8.0
-# The following code takes non-negative integers and return it in descending order
+# The following code takes non-negative integers and returns it in descending order
 
 
 # Creating a function that reads non-negative integers and outputs it in descending order
