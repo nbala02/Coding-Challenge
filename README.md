@@ -1,4 +1,4 @@
-# Coding-Challenge
+# Python-Functions
 1. Create a function that takes any non-negative integer as an argument and return it with its digits in descending order.
 Examples:                                                                             
 Input: 21445 Output: 54421                                                                                        
